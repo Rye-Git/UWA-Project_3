@@ -26,14 +26,12 @@
 
 ## 🧐 Team <a name = "Team"></a>
 •	Rye Capati
-•	Steve Milton
-•	Cicily George
 •	Parastoo Razavi
-•	Ezra Tassone
+
 
 ## 🧐 About <a name = "about"></a>
 **Description:**
-Analysis of the World Population per country and city.<br>
+Analysis of the Western Australia's High Schools rankings based on ATAR, NAPLAN, & ICSEA.<br>
 Data clean-up:
 1.	Merging data from various datasets
 2.	Check for duplication
