@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=700px height=500px src="images/world_population.PNG" alt="Project logo"></a>
+ <img width=700px height=500px src="images/logo.PNG" alt="Project logo"></a>
 </p>
 
 <h3 align="center">WA High School</h3>
