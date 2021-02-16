@@ -1,0 +1,3 @@
+sectors		- data gathered from https://www.goodschools.com.au/
+naplan_hs_2019	- data gathered from https://www.goodschools.com.au/
+doe_2020 	- based from the Department Of Education csv file "SchoolsListExcel0880"
