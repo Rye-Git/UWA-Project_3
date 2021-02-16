@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">  An analysis of the world's population per country and city 
+<p align="center">  An analysis Analysis of the Western Australia's High Schools rankings
     <br> 
 </p>
 
