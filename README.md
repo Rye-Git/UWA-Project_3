@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">  An analysis Analysis of the Western Australia's High Schools rankings
+<p align="center">  An analysis of Western Australia's High Schools rankings
     <br> 
 </p>
 
@@ -31,7 +31,7 @@
 
 ## 🧐 About <a name = "about"></a>
 **Description:**
-Analysis of the Western Australia's High Schools rankings based on ATAR, NAPLAN, & ICSEA.<br>
+Analysis of Western Australia's High Schools rankings based on ATAR, NAPLAN, & ICSEA.<br>
 Data clean-up:
 1.	Merging data from various datasets
 2.	Check for duplication
