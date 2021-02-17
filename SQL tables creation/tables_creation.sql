@@ -27,7 +27,8 @@ CREATE TABLE naplan_ratings (
     "Latitude" decimal(10, 8) NOT NULL,
     "Sector" VARCHAR NOT NULL,
     "Gender" VARCHAR NOT NULL,
-    "Religion" VARCHAR NOT NULL
+    "Religion" VARCHAR NOT NULL,
+	"ICSEA" INT NOT NULL
 );
 
 -- atar_2016_ratings table creation
@@ -193,4 +194,4 @@ CREATE TABLE icsea_2019_ratings (
 );
 
 -- Check the table created
-SELECT * FROM atar_2019_ratings
+SELECT * FROM naplan_ratings
