@@ -8,6 +8,9 @@ DROP TABLE if exists atar_2017_ratings;
 DROP TABLE if exists atar_2018_ratings;
 DROP TABLE if exists atar_2019_ratings;
 DROP TABLE if exists atar_2020_ratings;
+DROP TABLE if exists ml_first_model;
+DROP TABLE if exists ml_second_model;
+DROP TABLE if exists ml_third_model;
 DROP TABLE if exists naplan_ratings;
 
 -- naplan_ratings table creation 
@@ -193,5 +196,30 @@ CREATE TABLE icsea_2019_ratings (
 	FOREIGN KEY ("School") REFERENCES naplan_ratings("School")
 );
 
+-- ml_first_model table creation
+CREATE TABLE ml_first_model (
+    "School" VARCHAR Primary Key,
+	"Actual_2020" decimal(4, 2) NOT NULL,
+	"Predicted_2020" decimal(5, 3) NOT NULL,
+    "MAE" decimal(4, 3) NOT NULL,
+	"MSE" decimal(8, 6) NOT NULL,
+	"RMSE" decimal(4, 3) NOT NULL,
+	FOREIGN KEY ("School") REFERENCES naplan_ratings("School")
+);
+
+-- ml_second_model table creation
+CREATE TABLE ml_second_model (
+    "School" VARCHAR Primary Key,
+	"Predicted_2021" decimal(5, 3) NOT NULL,
+	FOREIGN KEY ("School") REFERENCES naplan_ratings("School")
+);
+
+-- ml_third_model table creation
+CREATE TABLE ml_third_model (
+    "School" VARCHAR Primary Key,
+	"Predicted_2021" decimal(5, 3) NOT NULL,
+	FOREIGN KEY ("School") REFERENCES naplan_ratings("School")
+);
+
 -- Check the table created
-SELECT * FROM naplan_ratings
+SELECT * FROM ml_first_model
