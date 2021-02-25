@@ -64,11 +64,8 @@ There are 193 High Schools with 103,198 enrolled High Shool students included in
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 **Questions to Answer:** <br>
-1.	What are the top 10 countries with the largest population?
-2.	What is the percentage of the top 10 countries compared to the rest of the world?
-3.	What are the top 10 cities with the largest population?
-4.  Is the largest populated city located in the largest populated country in the world?
-5.	Predicted population from 2020 to 2050 (eg. Australia)?
+1.	Does the type of school (Government or Non-Government) have an impact on the quality of education?
+2.	Will a high score in NAPLAN translate to a high score in ATAR?
 
 
 ## ✍️ Visualizations <a name = "visualizations"></a>
@@ -105,7 +102,6 @@ There are 193 High Schools with 103,198 enrolled High Shool students included in
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
-- Data source (scraped): https://worldpopulationreview.com
-- Data source (scraped): https://www.iban.com/country-codes
-- Data source (csv): https://datacatalog.worldbank.org
-- Data source (geojson download): https://github.com/johan/world.geo.json/blob/master/countries.geo.json
+- Data source (scraped): https://bettereducation.com.au/ (ATAR & ICSEA scores, & number of enrolled students)
+- Data source (xlsx): http://det.wa.edu.au/schoolinformation/detcms/navigation/school-lists/ (Suburb & Coordinates information)
+- Data source (manually gathered): https://www.goodschools.com.au/ (NAPLAN scores, Gender, Religion & Sectors information)
