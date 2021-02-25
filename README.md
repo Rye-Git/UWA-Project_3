@@ -3,7 +3,7 @@
  <img width=700px height=500px src="images/logo.PNG" alt="Project logo"></a>
 </p>
 
-<h3 align="center">WA High School</h3>
+<h3 align="center">WA High School rankings</h3>
 
 <div align="center">
 
