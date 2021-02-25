@@ -32,6 +32,8 @@
 ## 🧐 About <a name = "about"></a>
 **Description:**
 Analysis of Western Australia's High Schools rankings based on ATAR, NAPLAN, & ICSEA.<br>
+<br>
+
 Data clean-up:
 1.	Merging data from various datasets
 2.	Check for duplication
