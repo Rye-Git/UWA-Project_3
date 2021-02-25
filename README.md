@@ -37,15 +37,27 @@ Data clean-up:
 2.	Check for duplication
 3.	Check for invalid value
 4.	Make sure the data frame is consistent for all the data set.
-5.	Make sure no rows accidentally deleted
+5.	Make sure no rows are accidentally deleted
 
 
 **Summary:**
-The current US Census Bureau world population estimate in June 2019 shows that the current global population is 7,577,130,400 people on earth, which far exceeds the world population of 7.2 billion from 2015. Our dataset estimate which is based on UN data shows the world's population surpassing 7.7 billion.
+For much of human history, education has served an important purpose, ensuring we have the tools to survive. People need jobs to eat and to have jobs, they need to learn how to work.
+Education has been an essential part of every society. Education shows us the importance of hard work and, at the same time, helps us grow and develop.
+In this project, we analyse the rankings of High Schools in Western Australia based on 3 factors.
+- Median ATAR scores of Year 12 students per school 
+- NAPLAN scores of Year 9 students per school 
+- ICSEA scores per school
 
-Many other nations have populations of at least one million, while there are also countries that have just thousands. The smallest population in the world can be found in Vatican City, where only 801 people reside.
+There are 193 High Schools with 103,198 enrolled High Shool students included in our 2016-2020 dataset.
+<br>
 
-Although the number presented in our project seems very precise, it is important to remember that it is just an estimate. It simply isn't possible to be sure exactly how many people there are on Earth at any one time.
+
+**Limitation and Challenges:**
+- There is no single source of information or centralized dataset with regards to schools information.
+- Yearly ATAR & NAPLAN scores per school are not publicly or readily available online. 
+- Not all schools are present per year in our dataset (eg. unavailable data or school/s closing) 
+- Some schools change their name which affects the comparison of the data. 
+- School name varies per dataset (eg. format of school name)
 <br>
 
 
