@@ -34,7 +34,7 @@
 Analysis of Western Australia's High Schools rankings based on ATAR, NAPLAN, & ICSEA.
 <br>
 
-**Data Clean-up (Performed in Python):** 
+**Data Clean-up:** (Performed in Python) 
 1.	Merging data from various datasets
 2.	Check for duplication
 3.	Check for invalid value
