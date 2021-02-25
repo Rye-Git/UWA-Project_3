@@ -72,35 +72,41 @@ There are 193 High Schools with 103,198 enrolled High Shool students included in
 
 ## ✍️ Visualizations <a name = "visualizations"></a>
 
-* World map with 2020 country population details. 
-![Global_Map](images/global_map.PNG)
+* General infomation about WA High Schools. 
+![General info](images/general_info.PNG)
 
-* Top 10 Countries & Top 10 cities in 2020. 
-![top_10](images/top_10.PNG)
+* ICSEA, ATAR, and NAPLAN based on Suburb (2019). 
+![suburb](images/suburb_info.PNG)
 
-* Top 10 Countries vs World Population ratio in 2020. 
-![population_ratio](images/population_ratio.PNG)
+* Comparison between Government and Non-Government High Schools in WA(2019). 
+![pie chart](images/comparison_pie.PNG)
 
-* Australia population actual & prediction. 
-![au_population](images/australia_population.PNG)
+* WA High Schools NAPLAN average performance per sector (Year 9) - 2019. 
+![naplan_average](images/naplan_ave.PNG)
 
-* Australia sex ratio. 
-![au_sex_ration](images/australia_sex_ratio.PNG)
+* WA High Schools location (2019). 
+![locations](images/locations.PNG)
 
-* Australia birth rate. 
-![au_birthrate](images/australia_birthrate.PNG)
+* Top 10 High Schools in WA (2019). 
+![top_2019](images/top_2019.PNG)
 
-* Australia death rate. 
-![au_deathrate](images/australia_deathrate.PNG)
+* Percentage of students with an ATAR score (per year). 
+![atar_students](images/atar_students.PNG)
 
-* Countries population actual &prediction. 
-![country_table](images/country_table.PNG)
+* WA High Schools ATAR performance (per year). 
+![atar_scores](images/atar_score.PNG)
 
-* Cities population in 2019 & 2020. 
-![cities_table](images/city_table.PNG)
+* WA High Schools NAPLAN performance - Year 9 (per year). 
+![naplan_scores](images/naplan_perf.PNG)
 
-* API data. 
-![api](images/api.PNG)
+* Relationship between ATAR and NAPLAN (2019). 
+![scatter](images/relationship.PNG)
+
+* ATAR for 10 top High Schools in WA (2016-2020). 
+![top_atar](images/top_atar.PNG)
+
+* Machine Learning Models. 
+![machine_learning](images/ml_model.PNG)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
