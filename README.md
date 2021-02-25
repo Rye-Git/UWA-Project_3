@@ -62,7 +62,6 @@ There are 193 High Schools with 103,198 enrolled High Shool students included in
 - School name varies per dataset (eg. format of school name)
 <br>
 
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 **Questions to Answer:** <br>
