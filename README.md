@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">  An analysis of Western Australia's High Schools rankings
+<p align="center">  An analysis of Western Australia's High School rankings
     <br> 
 </p>
 
